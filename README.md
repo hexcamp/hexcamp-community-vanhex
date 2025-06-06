@@ -1,7 +1,7 @@
 hexcamp-community-vanhex
 ========================
 
-Data files for vanhex.ca.
+Data files for [vanhex.ca](https://vanhex.ca/)
 
 # License
 
