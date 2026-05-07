@@ -180,4 +180,4 @@ for (let i = 0; i < 7 * 7; i++) {
   output += `${i},${childHexId},${dnsMapping},\n`;
 }
 // console.log(output)
-writeFileSync('../newsroom-sites.csv', output);
+writeFileSync('../newshub-sites.csv', output);
